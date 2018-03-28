@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/logs/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/logs/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/logs/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/logs/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/logs/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/logs/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/logs/vendor/orchestra/testbench" />
+      <path value="$PROJECT_DIR$/logs/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/logs/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/logs/vendor/orchestra/testbench-core" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/logs/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/logs/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/logs/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/logs/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/logs/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/logs/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/logs/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/logs/vendor/composer" />
+      <path value="$PROJECT_DIR$/logs/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/logs/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/logs/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/logs/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/logs/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/logs/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/logs/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/logs/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/logs/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/logs/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/logs/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/logs/vendor/monolog/monolog" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/logs/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
